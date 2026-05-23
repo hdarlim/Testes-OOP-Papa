@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
+
 Projeto de exemplo com modelos simples: `Cliente`, `Pedido`, `ItemPedido`, `Produto`.
 
 Uso rápido (exemplo):
