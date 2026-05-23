@@ -17,5 +17,5 @@ print(pedido)
 ```
 
 Observações:
-- Modificações realizadas por GitHub Copilot estão presentes em `modelos_teste.py`.
+- Nenhuma modificação com IA realizada.
 - Execute com Python 3.8+ em um virtualenv.
