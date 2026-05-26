@@ -1,4 +1,4 @@
-from modelos_teste import Cliente, ItemPedido, Pedido, Produto
+from classes import Cliente, ItemPedido, Pedido, Produto
 
 def main() -> None:
     # teste
